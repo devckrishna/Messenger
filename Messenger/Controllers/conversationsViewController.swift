@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class conversationsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
